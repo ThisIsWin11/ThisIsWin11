@@ -9,6 +9,9 @@
 # ThisIsWin11
 ### which helps you know, set up and customize Windows 11.
 
+## Download Last Update
+- [Click here to download the latest version of ThisIsWin11](https://github.com/ThisIsWin11/ThisIsWin11/releases/download/1.3.0/TIW11.zip)
+
 ![screenshot](https://github.com/builtbybel/ThisIsWin11/blob/main/assets/tiw11.png)
  _This is not a product made by Microsoft and it's in no way related to them._
  
