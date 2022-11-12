@@ -31,7 +31,7 @@ ThisIsWin11 lets you customize Windows 11 all in one place. It is slowly expande
  ## Download and installing
  
  ### Download directly from GitHub
-- [Click here to download the latest version of ThisIsWin11](https://github.com/builtbybel/ThisIsWin11/releases)
+- [Click here to download the latest version of ThisIsWin11](https://github.com/ThisIsWin11/ThisIsWin11/releases)
 
 
 ### Installation
@@ -53,5 +53,5 @@ Icon by [Alfredo Creates, CC Atribution](https://icon-icons.com/de/symbol/Untern
 
  ---
 > [builtbybel](https://www.builtbybel.com) &nbsp;&middot;&nbsp;
-> GitHub [@builtbybel](https://github.com/builtbybel) &nbsp;&middot;&nbsp;
+> GitHub [@builtbybel](https://github.com/ThisIsWin11/) &nbsp;&middot;&nbsp;
 > Twitter [@builtbybel](https://twitter.com/builtbybel)
