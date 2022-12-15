@@ -57,4 +57,4 @@ Icon by [Alfredo Creates, CC Atribution](https://icon-icons.com/de/symbol/Untern
  ---
 > [builtbybel](https://www.builtbybel.com) &nbsp;&middot;&nbsp;
 > GitHub [@builtbybel](https://github.com/ThisIsWin11/) &nbsp;&middot;&nbsp;
-> Twitter [@builtbybel](https://twitter.com/builtbybel)
+> Twitter [@builtbybel](https://twitter.com/builtbybe)
